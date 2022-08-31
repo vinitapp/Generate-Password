@@ -17,6 +17,6 @@ This project has been deployed to GitHub Pages.
 <li>Then the input should be validated and at least one character type should be selected, when all prompts are answered.</li>
 <li>A password is successfully generated that matches the selected criteria when the password is generated.</li>
 <li>The Password is written to the page</li>
-</div>
+
 
 
