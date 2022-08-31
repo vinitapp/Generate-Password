@@ -5,14 +5,16 @@ This project was designed as a homework assignment for  Monash University's codi
 This application emphasizes the use of Javascript to generate a random, secure password for the user.
 
 This project has been deployed to GitHub Pages.
-<a href="https://github.com/vinitapp/Generate-Password.git">GitHub Repository</a>
-# ACCEPTANCE CRITERIA
+<li><a href="https://github.com/vinitapp/Generate-Password.git">GitHub Repository</a></li>
+<li><a href="">Deployed GitHub IO</a></li>
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
+# ACCEPTANCE CRITERIA
+<div class="criteria" style= "text-decoration:none;">
+<li>GIVEN I need a new, secure password</li>
+<li>WHEN I click the button to generate a password</li>
+<li>THEN I am presented with a series of prompts for password criteria</li>
+<li>WHEN prompted for password criteria</li>
+<li>THEN I select which criteria to include in the password</li>
 WHEN prompted for the length of the password
 THEN I choose a length of at least 8 characters and no more than 128 characters
 WHEN asked for character types to include in the password
