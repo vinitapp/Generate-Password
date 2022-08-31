@@ -5,7 +5,7 @@ This project was designed as a homework assignment for  Monash University's codi
 This application emphasizes the use of Javascript to generate a random, secure password for the user.
 
 This project has been deployed to GitHub Pages.
-
+<a href="https://github.com/vinitapp/Generate-Password.git">GitHub Repository</a>
 # ACCEPTANCE CRITERIA
 
 GIVEN I need a new, secure password
