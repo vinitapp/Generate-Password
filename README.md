@@ -9,22 +9,14 @@ This project has been deployed to GitHub Pages.
 <li><a href="">Deployed GitHub IO</a></li>
 
 # ACCEPTANCE CRITERIA
-<div class="criteria" style= "text-decoration:none;">
-<li>GIVEN I need a new, secure password</li>
-<li>WHEN I click the button to generate a password</li>
-<li>THEN I am presented with a series of prompts for password criteria</li>
-<li>WHEN prompted for password criteria</li>
-<li>THEN I select which criteria to include in the password</li>
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+<li>Need to create a secure password, when clicked on generate passwoord button</li>
+<li>Then a series of prompts for password criteria is presented to be selected, when prompted for password criteria</li>
+<li>Selection criteria to be included in the password, when prompted for the length of the password</li>
+<li>Need to choose a length of atleast 8 character and no more than 128 characters, when asked for character types to be included in the password.</li>
+<li>Confirm whether or not to include lowercase, uppercase, numeric, and/or special characters, when slection of each prompt is answered.</li>
+<li>Then the input should be validated and at least one character type should be selected, when all prompts are answered.</li>
+<li>A password is successfully generated that matches the selected criteria when the password is generated.</li>
+<li>The Password is written to the page</li>
 </div>
 
 
